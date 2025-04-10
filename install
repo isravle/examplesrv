@@ -1,0 +1,7 @@
+before install need to run 
+
+pip install requests
+thenn
+pip install pymongo
+
+that nothing
